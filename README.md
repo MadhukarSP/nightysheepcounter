@@ -13,6 +13,9 @@ https://uniqueinnovationsmadhukar.wordpress.com/privacy-policy/
 ## Blog to refer to host the app on iOS app store
 https://www.instabug.com/blog/how-to-submit-app-to-app-store
 
+## Following link provides details on how to publish app on Google play store
+https://reactnative.dev/docs/signed-apk-android
+
 ## Website to resize image for free online
 https://www.simpleimageresizer.com/upload
  
